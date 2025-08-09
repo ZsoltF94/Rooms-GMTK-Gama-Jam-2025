@@ -1,0 +1,62 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+Assets/StreamingAssets/aa*
+Assets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting auto-generated
+Assets/Unity.VisualScripting.Generated/
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+
+# IDE settings
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# Unity meta files for binaries
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Addressables default ignores
+/ServerData
+
+# Rider / JetBrains
+Assets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Gradle
+.gradle/
+
+# Other
+*.log
+*.blend1
+*.blend1.meta

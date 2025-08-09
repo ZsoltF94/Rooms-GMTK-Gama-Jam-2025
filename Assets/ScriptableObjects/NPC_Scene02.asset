@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25c6f2322052c54b8d26493719a5920, type: 3}
+  m_Name: NPC_Scene02
+  m_EditorClassIdentifier: 
+  dialog:
+  - 'I''m here for days now...[SPACE to continue...]'
+  - 'I can''t do this anymore. [SPACE to continue...]'
+  - 'Monsters will come for you, and when they catch you, this whole thing starts
+    over and over and over again. [SPACE to continue...]'
+  - 'We will have to stay here forever... [SPACE to continue...]'

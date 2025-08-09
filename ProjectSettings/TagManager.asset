@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Interactable
+  - Floor
+  - Walls
+  - Top
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1649973485
+    locked: 0
+  - name: Floor
+    uniqueID: 3159645531
+    locked: 0
+  - name: Walls
+    uniqueID: 2655050579
+    locked: 0
+  - name: Monster
+    uniqueID: 2076733813
+    locked: 0
+  - name: Player
+    uniqueID: 188164217
+    locked: 0
+  - name: Top
+    uniqueID: 2007998537
+    locked: 0
+  m_RenderingLayers:
+  - Default
