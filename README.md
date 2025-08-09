@@ -3,6 +3,7 @@
 ## Overview
 **Rooms** is a 2D top-down Unity 6 project developed for the **GMTK Game Jam 2025**.  
 The game features interactive environments, dialogue systems, NPC/monster AI, checkpoint-based progression, and loop-based gameplay mechanics.
+You can pplay this game here: [Rooms itch.io page][https://fsf-games.itch.io/rooms]
 
 ## Features
 - **Unity 6 (6000.0.47f1)** project using the **Unity Input System**  
