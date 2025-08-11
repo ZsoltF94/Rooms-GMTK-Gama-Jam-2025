@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Notiz_034
   m_EditorClassIdentifier: 
   dialog:
-  - 'Aug. 3 - Joe''s birthday [SPACE to continue...]'
+  - 'Someone wrote on the note:'
+  - '"I write this to remember, the door opens if... "'
+  - After these words, the note ends. The person who wrote this didn't finished.
+    probably something bad happend to them.

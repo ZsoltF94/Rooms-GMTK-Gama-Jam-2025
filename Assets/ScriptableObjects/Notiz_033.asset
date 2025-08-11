@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_033
   m_EditorClassIdentifier: 
   dialog:
-  - 'You turn my world upside down. [SPACE to continue...]'
+  - 'You turn my world upside down. '

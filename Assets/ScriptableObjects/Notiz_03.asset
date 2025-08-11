@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_03
   m_EditorClassIdentifier: 
   dialog:
-  - '08:10 [SPACE to continue...]'
+  - 08:10

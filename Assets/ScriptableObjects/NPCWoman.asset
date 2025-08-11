@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: NPCWoman
   m_EditorClassIdentifier: 
   dialog:
-  - 'The last one turns off the light. [SPACE to continue...]'
+  - Patrick told me to torn off the lights, bu im too scared.

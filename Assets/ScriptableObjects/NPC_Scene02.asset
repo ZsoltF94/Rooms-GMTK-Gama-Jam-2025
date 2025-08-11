@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: NPC_Scene02
   m_EditorClassIdentifier: 
   dialog:
-  - 'I''m here for days now...[SPACE to continue...]'
-  - 'I can''t do this anymore. [SPACE to continue...]'
+  - I'm here for days now, I cant do this anymore
   - 'Monsters will come for you, and when they catch you, this whole thing starts
-    over and over and over again. [SPACE to continue...]'
-  - 'We will have to stay here forever... [SPACE to continue...]'
+    over and over and over again. '
+  - This one starts to move at 7:45.
+  - My friends found a way through one of these lockers, but I cant find the one
+    they went through.

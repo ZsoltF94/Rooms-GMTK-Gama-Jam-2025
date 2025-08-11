@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d25c6f2322052c54b8d26493719a5920, type: 3}
-  m_Name: Notiz_Scene02
+  m_Name: PatrickCallsYou
   m_EditorClassIdentifier: 
   dialog:
-  - At the beginning of the book it says day 01.
-  - At the end of the book it says day 703.
+  - Hey!?
+  - Who are you?
+  - Come over here.

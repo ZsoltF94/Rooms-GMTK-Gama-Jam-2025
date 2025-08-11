@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Board_04
   m_EditorClassIdentifier: 
   dialog:
-  - 'Biology sucks! [SPACE to continue...]'
+  - 'Biology sucks! '

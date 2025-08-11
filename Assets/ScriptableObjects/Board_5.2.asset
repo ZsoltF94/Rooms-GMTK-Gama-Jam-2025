@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Board_5.2
   m_EditorClassIdentifier: 
   dialog:
-  - 'Get out... [SPACE to continue...]'
+  - Get out...

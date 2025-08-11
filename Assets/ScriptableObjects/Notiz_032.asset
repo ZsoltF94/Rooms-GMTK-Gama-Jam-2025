@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_032
   m_EditorClassIdentifier: 
   dialog:
-  - 'Norma failed [SPACE to continue...]'
+  - 'Norma failed '

@@ -13,7 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_05
   m_EditorClassIdentifier: 
   dialog:
-  - 'Roses are red...[SPACE to continue...]'
-  - 'Violets are blue...[SPACE to continue...]'
-  - 'I am trapped here...[SPACE to continue...]'
-  - 'So are you! [SPACE to continue...]'
+  - 8:45

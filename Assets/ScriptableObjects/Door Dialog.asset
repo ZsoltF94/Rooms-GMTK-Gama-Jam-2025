@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d25c6f2322052c54b8d26493719a5920, type: 3}
-  m_Name: Tafel_2.1
+  m_Name: Door Dialog
   m_EditorClassIdentifier: 
   dialog:
-  - 'Find the right locker. [SPACE to continue...]'
+  - 'This locker is still locked. '
+  - ' there are some things to do in this room, befor it opens...'

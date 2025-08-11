@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: NPC_05.1
   m_EditorClassIdentifier: 
   dialog:
-  - 'I stumbled over a crack in the last room. [SPACE to continue...]'
-  - 'Why is it there?! [SPACE to continue...]'
-  - 'Everthing is so strange... [SPACE to continue...]'
+  - Hi, I'm Patrick.
+  - Have you seen my friends? Im waitting for them a while now...
+  - ...
+  - Anyways, have you seen the crack on th floor in the previous room?
+  - Why is it there? Everything is so strange.

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Notiz_0.51
   m_EditorClassIdentifier: 
   dialog:
-  - 'Humbledee bumbldeee duuuuuuuu...[SPACE to continue...]'
-  - 'We will catch youuuuuuu! [SPACE to continue...]'
+  - Humbledee bumbldeee duuuuuuuu...
+  - 'We will catch youuuuuuu! '

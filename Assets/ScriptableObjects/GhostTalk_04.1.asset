@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: GhostTalk_04.1
   m_EditorClassIdentifier: 
   dialog:
-  - 'Leave me alone! [SPACE to continue...]'
+  - 'Leave me alone! '

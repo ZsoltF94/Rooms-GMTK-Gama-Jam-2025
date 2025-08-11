@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Notiz_04.1
   m_EditorClassIdentifier: 
   dialog:
-  - 'The skeleton isn''t real... is it? [SPACE to continue...]'
+  - 'This sheet of paper looks like a biology test. '
+  - But it's way too old, I can't read it anymore.

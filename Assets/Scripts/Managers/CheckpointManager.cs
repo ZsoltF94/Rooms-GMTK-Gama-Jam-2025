@@ -14,6 +14,7 @@ public class CheckpointManager : MonoBehaviour
         checkpoints.Add("lightCP", false);
         checkpoints.Add("pictureCP", false);
         checkpoints.Add("crackCP", false);
+        checkpoints.Add("doorOpen", false);
     }
 
     public void ActivateCheckpoint(string checkpointname)

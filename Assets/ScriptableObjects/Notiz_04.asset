@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_04
   m_EditorClassIdentifier: 
   dialog:
-  - 'Whoever wants to learn must repeat. [SPACE to continue...]'
+  - 'Whoever wants to learn must repeat. '

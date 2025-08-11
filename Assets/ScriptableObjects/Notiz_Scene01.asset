@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Notiz_Scene01
   m_EditorClassIdentifier: 
   dialog:
-  - 'Welcome to your class...[SPACE tp continue...]'
-  - 'Your next test is to get out of our prescious school. [SPACE tp continue...]'
-  - "But don\u2019t get your hopes up, no one can do it...[SPACE to continue...]"
+  - Welcome to your class...
+  - Your next test is to get out of our prescious school.
+  - "But don\u2019t get your hopes up, no one can do it..."

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Notiz_041
   m_EditorClassIdentifier: 
   dialog:
-  - 'The skeleton isn''t real... is it? [SPACE to continue...]'
+  - 'The skeleton isn''t real... is it? '

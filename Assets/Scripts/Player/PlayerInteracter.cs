@@ -14,16 +14,20 @@ public class PlayerInteracter : MonoBehaviour
 
     public void CheckInteractables()
     {
-        Collider2D[] hits = Physics2D.OverlapBoxAll(interactionBox.transform.position, interactionBox.transform.localScale, interactableLayer);
+        Collider2D[] hits = Physics2D.OverlapBoxAll(interactionBox.transform.position, interactionBox.transform.localScale, 0f, interactableLayer);
 
-        foreach (var hit in hits)
+        if (hits != null)
         {
-            var interactable = hit.GetComponent<IInteractable>();
-            if (interactable != null)
+            foreach (var hit in hits)
             {
-                interactable.Interact();
-            }    
+                var interactable = hit.GetComponent<IInteractable>();
+                if (interactable != null)
+                {
+                    interactable.Interact();
+                }
+            }
         }
+
         
     }
 }
