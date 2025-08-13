@@ -214,24 +214,24 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 00000000ed9858625b5d54bc53db409e7928370b49a0af777571c87b
+  m_ApplyToSortingLayers: 00000000ed9858625b5d54bc53db409e7571c87b7928370b49a0af77
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
-  m_OverlapOperation: 0
+  m_OverlapOperation: 1
   m_NormalMapDistance: 3
   m_NormalMapQuality: 2
   m_UseNormalMap: 0
   m_ShadowsEnabled: 1
-  m_ShadowIntensity: 0.986
-  m_ShadowSoftness: 0.058
-  m_ShadowSoftnessFalloffIntensity: 0.354
+  m_ShadowIntensity: 1
+  m_ShadowSoftness: 1
+  m_ShadowSoftnessFalloffIntensity: 0
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 0.0005502701, y: -0.00014972687, z: 0}
-    m_Extent: {x: 22.59925, y: 22.59975, z: 0}
+    m_Center: {x: -0.00049972534, y: 0.00034999847, z: 0}
+    m_Extent: {x: 18.0993, y: 18.09945, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
-  m_ShapeLightFalloffSize: 22.1
+  m_ShapeLightFalloffSize: 17.6
   m_ShapeLightFalloffOffset: {x: 0, y: 0}
   m_ShapePath:
   - {x: 0.5, y: 0, z: 0}

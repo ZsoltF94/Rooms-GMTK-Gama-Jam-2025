@@ -67,7 +67,6 @@ public class Exit : MonoBehaviour
             audioSource.PlayOneShot(audioClipLockerLocked);
             checkpointManager.checkpoints["doorOpen"] = false;
         }
-        Debug.Log(checkpointManager.checkpoints["doorOpen"]);
     }
 
 }

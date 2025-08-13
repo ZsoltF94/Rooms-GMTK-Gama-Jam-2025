@@ -16,17 +16,17 @@ public class PlayerInteracter : MonoBehaviour
     {
         Collider2D[] hits = Physics2D.OverlapBoxAll(interactionBox.transform.position, interactionBox.transform.localScale, 0f, interactableLayer);
 
-        if (hits != null)
+        if (hits.Length == 0) return;
+    
+        foreach (var hit in hits)
         {
-            foreach (var hit in hits)
+            var interactables = hit.GetComponents<IInteractable>();
+            foreach (var interactable in interactables)
             {
-                var interactable = hit.GetComponent<IInteractable>();
-                if (interactable != null)
-                {
-                    interactable.Interact();
-                }
+                interactable.Interact();
             }
         }
+        
 
         
     }
